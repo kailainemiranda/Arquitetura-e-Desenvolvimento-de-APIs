@@ -4,7 +4,7 @@
 **RU:** 4832461  
 **Disciplina:** Arquitetura e Desenvolvimento de APIs
 
-Projeto organizado de acordo com as **Questões 1 a 6** da atividade, mantendo a numeração correspondente ao enunciado.
+Ativiadade organizado de acordo com as **Questões 1 a 6** da atividade
 
 ## Estrutura
 
