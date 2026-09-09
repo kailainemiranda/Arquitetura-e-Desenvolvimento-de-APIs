@@ -1,4 +1,4 @@
-# 🧠 MindP2P API — Incentive-Driven Knowledge Peer Engine
+# 🧠 Arquitetura e Desenvolvimento de APIs — Incentive-Driven Knowledge Peer Engine
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688.svg)
